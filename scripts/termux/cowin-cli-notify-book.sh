@@ -9,17 +9,17 @@ COWIN_CLI="./cowin-cli"
 # Interval in seconds
 T=15
 # centers for grep matching
-CENTERS_MATCH='center1|center2|cnter3'
+CENTERS_MATCH='VAIJAPUR SDH|LADGAON PHC|BORSAR PHC'
 # centers to auto select
-CENTERS=""
-DISTRICT="district"
-STATE="state"
+CENTERS="VAIJAPUR SDH"
+DISTRICT="Aurangabad "
+STATE="Maharashtra"
 AGE=45
-NAME=""
-NO=""
+NAME="Mangala Francis Dushing"
+NO="8390172690"
 # vaccines seperated by ','
-VACCINE=""
-DOSE=0
+VACCINE="covishield"
+DOSE=1
 
 
 schedule(){
